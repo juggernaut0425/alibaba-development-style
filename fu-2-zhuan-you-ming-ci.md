@@ -2,7 +2,7 @@
 
 1. POJO\(Plain Ordinary Java Object\):在本手册中,POJO专指只有setter/getter/toString的简单类,包括DO/DTO/BO/VO等。
 
-2.DO\(Data Object\):本手册指数据库表一一对应的POJO类。
+2.  DO\(Data Object\):本手册指数据库表一一对应的POJO类。
 
 1. GAV\(GroupId、ArtifactctId、Version\):Maven坐标,是用来唯一标识jar包。
 
@@ -20,5 +20,5 @@
 
 7. 二方库:公司内部发布到中央仓库,可供公司内部依赖的库\(jar包\)。
 
-10.三方库:公司之外的开源的依赖库\(jar包\)。
+10.三方库:公司之外的开源的依赖库\(jar包\)。 
 
