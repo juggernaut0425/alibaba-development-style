@@ -1,4 +1,4 @@
-附 2:本手册专有名词
+## 附 2:本手册专有名词
 
 1.POJO\(Plain Ordinary Java Object\):在本手册中,POJO专指只有setter/getter/toString的简单类,包括DO/DTO/BO/VO等。
 
