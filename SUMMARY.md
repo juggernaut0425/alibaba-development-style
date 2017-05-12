@@ -26,5 +26,5 @@
 * [安全规约](安全规约/安全规约.md)
 * [附1-版本历史](fu-1-ban-ben-li-shi.md)
 * [附2-专有名词](fu-2-zhuan-you-ming-ci.md)
-* 附3-法律声明
+* [附3-法律声明](fu-3-fa-lv-sheng-ming.md)
 
