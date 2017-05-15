@@ -45,7 +45,7 @@
 
 11. 【强制】构造方法里面禁止加入任何业务逻辑，如果有初始化逻辑，请放在init方法中。
 
-12. 【强制】POJO类必须写toString方法。使用IDE的中工具：source&gt;generate toString时，如果继承了另一个POJO类，注意在前面加一下super.toString。说明：在方法执行抛出异常时，可以直接调用POJO的toString\(\)方法打印其属性值，便于排 查问题。
+12. 【强制】POJO类必须写toString方法。使用IDE的中工具：source&gt;generate toString时，如果继承了另一个POJO类，注意在前面加一下super.toString。说明：在方法执行抛出异常时，可以直接调用POJO的toString\(\)方法打印其属性值，便于排查问题。
 
 13. 【推荐】使用索引访问用String的split方法得到的数组时，需做最后一个分隔符后有无内容的检查，否则会有抛IndexOutOfBoundsException的风险。
 
