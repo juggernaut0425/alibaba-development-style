@@ -52,7 +52,7 @@
     说明：
 
     String str = "a，b，c，，";  
-     String\[\] ary = str.split\("，"\);//预期大于3，结果是    3System.out.println\(ary.length\);
+     String\[\] ary = str.split\(","\);//预期大于3，结果是    3System.out.println\(ary.length\);
 
 14. 【推荐】当一个类有多个构造方法，或者多个同名方法，这些方法应该按顺序放置在一起， 便于阅读。
 
